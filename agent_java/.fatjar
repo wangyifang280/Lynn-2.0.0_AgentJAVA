@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 29 17:14:01 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=agentJavaModel_1.0.0.jar
+manifest.mergeall=true
+manifest.mainclass=agentJava.agentJava
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
